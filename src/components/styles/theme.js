@@ -1,0 +1,8 @@
+export default {
+  MAIN_THEME_COLOR: '#5bb487',
+  MAIN_TEXT_COLOR: '#2f3542',
+  SUB_TEXT_COLOR: '#57606f',
+  WARNING_TEXT_COLOR: '#d63031',
+  BORDER_COLOR: '#747d8c',
+  BACKGROUND_COLOR: '#f1f1f1'
+};

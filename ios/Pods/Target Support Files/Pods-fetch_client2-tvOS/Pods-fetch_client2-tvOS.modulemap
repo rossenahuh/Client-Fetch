@@ -1,0 +1,6 @@
+framework module Pods_fetch_client2_tvOS {
+  umbrella header "Pods-fetch_client2-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

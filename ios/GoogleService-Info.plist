@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>945627710466-qnrfth3cvvq08et2g8i21phe7cutvh77.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.945627710466-qnrfth3cvvq08et2g8i21phe7cutvh77</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAY5QXURDIjHBt49kyXXC9V9hZup0sWCJ4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>945627710466</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fetch.fun.fetch-client2</string>
+	<key>PROJECT_ID</key>
+	<string>fetch-notifications-server</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fetch-notifications-server.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:945627710466:ios:5774a753ebdeaf2a</string>
+	<key>DATABASE_URL</key>
+	<string>https://fetch-notifications-server.firebaseio.com</string>
+</dict>
+</plist>

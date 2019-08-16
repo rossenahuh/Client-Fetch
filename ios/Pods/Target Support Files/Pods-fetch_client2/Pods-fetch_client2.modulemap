@@ -1,0 +1,6 @@
+framework module Pods_fetch_client2 {
+  umbrella header "Pods-fetch_client2-umbrella.h"
+
+  export *
+  module * { export * }
+}
